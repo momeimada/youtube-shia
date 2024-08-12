@@ -1,3 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
 
 Imam Ali | Iraq | https://yt3.googleusercontent.com/yxx-DJEIHbLN17G4Cn_C5zEaeqXES8b6lqZ_-AqAY75MrpEbooaL2QAG7IoISXelWdRpc3lQcA=s160-c-k-c0x00ffffff-no- |
 https://www.youtube.com/@ImamAliNet/live

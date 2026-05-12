@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Iraq" tvg-logo="https://yt3.googleusercontent.com/yxx-DJEIHbLN17G4Cn_C5zEaeqXES8b6lqZ_-AqAY75MrpEbooaL2QAG7IoISXelWdRpc3lQcA=s160-c-k-c0x00ffffff-no-" tvg-id="", Imam Ali
-https://raw.githubusercontent.com/momeimada/youtube-shia/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778575462/ei/BpQCau2MH5KKr9gPkpvS-AQ/ip/20.55.15.104/id/lvfASLymJ1s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwpdC1dI7u29k6sf9GJdcscmZCR3PPZf4Hp-X-iuVTA7cxmi1exUdSKHe8L1d_uQW0oMozu6K44g/spc/96Xrv-aYtGyz7QqfXQbkGfhL7un2wAfixb21xAvmNYXALoC6H1-EW2_6HJL8G71V1GAnyg/vprv/1/go/1/ns/ps7j3jUX9HsbQeP9XWUmu_oV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/tA4E8oaS8okMxlj7M5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgZct1jIwwT_mZU2kGQe8d_XXVmrfD4XrUjAz7wy0dk6kCIFdFg72XMnzrDNpLbxp0glW1zkFtCr5nRkASZVdbQukB/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
 https://raw.githubusercontent.com/momeimada/youtube-shia/main/assets/moose_na.m3u
